@@ -27,4 +27,4 @@ The default livox_raw_message_name is "/livox/lidar". livox_points_message_name 
 
 ## visualize in RVIZ
 
-![](https://pic.imgdb.cn/item/64aa40be1ddac507cccd9055.jpg)
+![](./doc/viz.jpg)
